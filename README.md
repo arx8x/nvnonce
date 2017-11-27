@@ -3,7 +3,7 @@
 Set generator value in nvram on iOS
 
 
-**Usage**
+* **Usage**
 
 `setnonce` - prints the current generator value
 
@@ -12,7 +12,7 @@ Set generator value in nvram on iOS
 The input value will be validated
 
 
-**Example**
+* **Example**
 
 Reading
 ```
@@ -31,7 +31,7 @@ iKrux-6:/ root# setnonce ff22e9aef60619e3
 Success : 0xff22e9aef60619e3
 ```
 
-**Errors**
+* **Errors**
 
 ```
 iKrux-6:/ root# setnonce 0xdaddy
