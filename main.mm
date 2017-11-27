@@ -52,6 +52,10 @@ int setGenerator(char *genStr)
 			error = -1;
 		}
 	}
+	else
+	{
+		printf("Couldn't get nvram service");
+	}
 
 	IOObjectRelease(nvService);
 	CFRelease(generator);
