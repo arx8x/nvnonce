@@ -1,0 +1,11 @@
+Package: xyz.xninja.setnonce
+Name: setnonce
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: ARX8x
+Author: ARX8x
+Section: System
+Tag: role::hacker
+Version: 0.0.1-26+debug
+Installed-Size: 132
