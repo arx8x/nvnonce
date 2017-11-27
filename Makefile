@@ -1,7 +1,7 @@
 include ~/theos/makefiles/common.mk
 
 TOOL_NAME = nvnonce
-setnonce_FILES = main.mm
-setnonce_FRAMEWORKS = IOKit
+nvnonce_FILES = main.mm
+nvnonce_FRAMEWORKS = IOKit
 
 include ~/theos/makefiles/tool.mk

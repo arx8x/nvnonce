@@ -1,5 +1,5 @@
-Package: xyz.xninja.setnonce
-Name: setnonce
+Package: xyz.xninja.nvnonce
+Name: nvnonce
 Depends:
 Architecture: iphoneos-arm
 Description: Set boot-nonce in nvram on iOS
@@ -7,5 +7,5 @@ Maintainer: ARX8x
 Author: ARX8x
 Section: System
 Tag: role::hacker
-Version: 0.0.2
+Version: 0.0.2-3+debug
 Installed-Size: 132
