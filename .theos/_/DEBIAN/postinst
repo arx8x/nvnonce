@@ -1,0 +1,1 @@
+chown root /usr/bin/setnonce && chmod u+s /usr/bin/setnonce
